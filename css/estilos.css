@@ -1,0 +1,17 @@
+/* RESET */
+*{
+    box-sizing: border-box;
+}
+
+html{
+font-family: 'Quicksand', sans-serif;
+}
+
+/* VARIABLES */
+:root{
+    --borderedondo: 20px;
+    --paddingS: 28px;
+    --colorletra:#FFFFFF;
+    --tituloS:;
+    --tituloD:;
+}
